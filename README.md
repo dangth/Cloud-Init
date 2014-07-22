@@ -86,3 +86,4 @@ Vừa tạo instance vừa chèn file uer-data
 
  - Sau khi máy ảo được tạo xong, login bằng uer: ubuntu và pass: auyvl  ( :D )
 
+Kết thúc
